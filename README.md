@@ -43,10 +43,12 @@ The proposal applies AI technology in multiple aspects of the development workfl
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/intelligent-ide.git
+   git clone https://github.com/SrivalliMannem/IntelligentIDE.git
 2. Navigate to the project directory:
+   ```bash
    cd intelligent-ide
 3. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
 4. Start the IDE:
    python ide.py
